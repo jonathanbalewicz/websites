@@ -1,0 +1,44 @@
+[06-Mar-2016 13:01:20] PHP Warning:  require_once(recaptchalib.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home1/njaohnt/public_html/jzproducts.tk/contact.php on line 41
+[06-Mar-2016 13:01:20] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'recaptchalib.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home1/njaohnt/public_html/jzproducts.tk/contact.php on line 41
+[06-Mar-2016 16:03:21] PHP Parse error:  syntax error, unexpected T_ELSE in /home1/njaohnt/public_html/jzproducts.tk/contactsubmit.php on line 18
+[10-Mar-2016 18:57:10] PHP Parse error:  syntax error, unexpected ')' in /home1/njaohnt/public_html/jzproducts.tk/coupon.php on line 12
+[11-Mar-2016 05:29:25] PHP Parse error:  syntax error, unexpected T_ELSE in /home1/njaohnt/public_html/jzproducts.tk/coupon.php on line 23
+[11-Mar-2016 05:47:24] PHP Parse error:  syntax error, unexpected T_ELSE in /home1/njaohnt/public_html/jzproducts.tk/coupon.php on line 23
+[12-Mar-2016 12:35:09] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'njaohnt_c'@'localhost' (using password: NO) in /home1/njaohnt/public_html/jzproducts.tk/getcoupon.php on line 42
+[12-Mar-2016 14:32:33] PHP Parse error:  syntax error, unexpected '}' in /home1/njaohnt/public_html/jzproducts.tk/emailsubmit.php on line 34
+[12-Mar-2016 14:33:48] PHP Parse error:  syntax error, unexpected '}' in /home1/njaohnt/public_html/jzproducts.tk/emailsubmit.php on line 34
+[12-Mar-2016 15:33:54] PHP Parse error:  syntax error, unexpected '}' in /home1/njaohnt/public_html/jzproducts.tk/emailsubmit.php on line 34
+[14-Mar-2016 22:04:33] PHP Parse error:  syntax error, unexpected '}' in /home1/njaohnt/public_html/jzproducts.tk/emailsubmit.php on line 34
+[25-Mar-2016 09:53:34] PHP Parse error:  syntax error, unexpected '}' in /home1/njaohnt/public_html/jzproducts.tk/emailsubmit.php on line 34
+[25-Mar-2016 11:51:45] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'njaohnt_c'@'localhost' (using password: YES) in /home1/njaohnt/public_html/jzproducts.tk/csql.php on line 6
+[25-Mar-2016 14:48:47] PHP Parse error:  syntax error, unexpected '}' in /home1/njaohnt/public_html/jzproducts.tk/emailsubmit.php on line 34
+[13-Apr-2016 18:36:27] PHP Parse error:  syntax error, unexpected '}' in /home1/njaohnt/public_html/jzproducts.tk/emailsubmit.php on line 34
+[13-Apr-2016 18:46:39] PHP Parse error:  syntax error, unexpected T_IF in /home1/njaohnt/public_html/jzproducts.tk/emailsubmit.php on line 36
+[13-Apr-2016 18:47:10] PHP Parse error:  syntax error, unexpected T_STRING, expecting '(' in /home1/njaohnt/public_html/jzproducts.tk/emailsubmit.php on line 40
+[14-Apr-2016 18:14:02] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'njaohnt_c'@'localhost' (using password: YES) in /home1/njaohnt/public_html/jzproducts.tk/getcoupon.php on line 42
+[14-Apr-2016 18:17:40] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home1/njaohnt/public_html/jzproducts.tk/getcoupon.php on line 52
+[14-Apr-2016 18:56:58] PHP Fatal error:  Call to undefined function ysqli_fetch_assoc() in /home1/njaohnt/public_html/jzproducts.tk/getcoupon.php on line 49
+[15-Apr-2016 06:55:25] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'njaohnt_c'@'localhost' (using password: NO) in /home1/njaohnt/public_html/jzproducts.tk/coupon.php on line 6
+[15-Apr-2016 16:21:35] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/njaohnt/public_html/jzproducts.tk/emailsubmit.php on line 33
+[15-Apr-2016 16:22:55] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home1/njaohnt/public_html/jzproducts.tk/emailsubmit.php on line 25
+[15-Apr-2016 16:24:21] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/njaohnt/public_html/jzproducts.tk/emailsubmit.php on line 27
+[15-Apr-2016 16:24:21] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/njaohnt/public_html/jzproducts.tk/emailsubmit.php on line 36
+[15-Apr-2016 16:37:47] PHP Parse error:  syntax error, unexpected T_ELSE in /home1/njaohnt/public_html/jzproducts.tk/emailsubmit.php on line 40
+[15-Apr-2016 16:38:49] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/njaohnt/public_html/jzproducts.tk/emailsubmit.php on line 27
+[15-Apr-2016 16:52:02] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/njaohnt/public_html/jzproducts.tk/emailsubmit.php on line 28
+[15-Apr-2016 16:52:58] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/njaohnt/public_html/jzproducts.tk/emailsubmit.php on line 28
+[16-Apr-2016 10:07:56] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/njaohnt/public_html/jzproducts.tk/emailsubmit.php on line 44
+[16-Apr-2016 18:01:42] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'njaohnt_c'@'localhost' (using password: NO) in /home1/njaohnt/public_html/jzproducts.tk/coupon.php on line 6
+[16-Apr-2016 18:47:45] PHP Parse error:  syntax error, unexpected '}', expecting '(' in /home1/njaohnt/public_html/jzproducts.tk/coupon.php on line 37
+[16-Apr-2016 19:11:59] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/njaohnt/public_html/jzproducts.tk/coupon.php on line 37
+[30-Apr-2016 07:07:23] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home1/njaohnt/public_html/jzproducts.tk/getcoupon.php on line 42
+[01-May-2016 07:44:38] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home1/njaohnt/public_html/jzproducts.tk/getcoupon.php on line 42
+[16-May-2016 23:08:36] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home1/njaohnt/public_html/jzproducts.tk/emailsubmit.php on line 58
+[17-Jun-2016 03:19:28] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home1/njaohnt/public_html/jzproducts.tk/emailsubmit.php on line 58
+[17-Jun-2016 22:51:14] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'njaohnt_c'@'localhost' (using password: YES) in /home1/njaohnt/public_html/jzproducts.tk/getcoupon.php on line 42
+[20-Jul-2016 23:47:14] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'njaohnt_c'@'localhost' (using password: YES) in /home1/njaohnt/public_html/jzproducts.tk/getcoupon.php on line 42
+[24-Jul-2016 02:17:18] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home1/njaohnt/public_html/jzproducts.tk/emailsubmit.php on line 58
+[22-Aug-2016 01:07:07] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'njaohnt_c'@'localhost' (using password: YES) in /home1/njaohnt/public_html/jzproducts.tk/getcoupon.php on line 42
+[24-Aug-2016 21:40:27] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home1/njaohnt/public_html/jzproducts.tk/emailsubmit.php on line 58
+[25-Sep-2016 08:39:18] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'njaohnt_c'@'localhost' (using password: YES) in /home1/njaohnt/public_html/jzproducts.tk/getcoupon.php on line 42
+[25-Sep-2016 14:22:20] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home1/njaohnt/public_html/jzproducts.tk/emailsubmit.php on line 58

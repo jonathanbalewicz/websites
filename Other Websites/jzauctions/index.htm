@@ -1,0 +1,41 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<script type="text/javascript">
+for (i=1;i<51;i++)
+var xmlhttp;
+{if (window.XMLHttpRequest)
+  {xmlhttp=new XMLHttpRequest();}
+else
+  {xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");}
+xmlhttp.onreadystatechange=function()
+  {if (xmlhttp.readyState==4 && xmlhttp.status==200)
+    {document.getElementById("txt"+i).innerHTML=xmlhttp.responseText;}}}
+xmlhttp.open("GET","gethint.php?a="+i,true);
+xmlhttp.send();</script>
+<title>Jz</title>
+<link rel="stylesheet" type="text/css" href="http://jz.jzdb.heliohost.org/jzmaincss.css" />
+<link rel="shortcut icon" href="http://jz.jzdb.heliohost.org/jzicon.ico" type="image/x-icon" />
+</head>
+<body>
+<center>
+<div id="hbox">Jz Auctions</div>
+<div id="pbox"><strong>Our auctions:</strong><br />
+<table border="1" bordercolor="red">
+<tbody>
+<tr>
+<th>Title</th>
+<th>Image</th>
+<th>Time left</th>
+<th>People bidding</th>
+<th>Current amount</th>
+<th>Top Bidder</th>
+<th>Value</th>
+<th>Category</th>
+<th>Bid</th></tr>
+<script type="text/javascript">
+for (f=1;f<51;f++)
+document.write("<div id='txt"+f+"'></div>");
+</script></tbody></table></div></center>
+</body>
+</html>

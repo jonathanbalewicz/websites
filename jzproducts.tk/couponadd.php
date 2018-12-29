@@ -1,0 +1,3 @@
+<?php
+echo '<form action="coupon.php" method="post">Type: <input type="text" style="width: 500px" name="type"><br>Code: <input type="text" name="c"> Enter 0 to show all coupons and emails. Can be a complete URL, or the code itself.<br>URL ending:<input type="text" name="en"> The coupons will be at "jzproducts.tk/getcoupon.php?c="then the URL ending<br>Max usages: <input type="number" name="m"><br>PW: <input type="password" name="p"><br><input type="submit" value="Submit"></form>';
+?>
