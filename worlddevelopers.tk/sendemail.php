@@ -17,7 +17,7 @@ $email_from = "admin@worlddevelopers.tk";
  
 $servername = "fdb18.freehostingeu.com";
 $username = "2600165_njaohnt";
-$password = "8JMBMW8jmbmw";
+$password = "------------";
 $dbname = "2600165_njaohnt";
 
 // Create connection

@@ -126,7 +126,7 @@
 <?php
 $servername = "fdb18.freehostingeu.com";
 $username = "2600165_njaohnt";
-$password = "8JMBMW8jmbmw";
+$password = "-----------";
 $dbname = "2600165_njaohnt";
 $conn = new mysqli($servername, $username, $password, $dbname);
 if ($conn->connect_error) {

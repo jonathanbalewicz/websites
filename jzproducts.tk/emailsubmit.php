@@ -12,7 +12,7 @@ if ($_POST["g-recaptcha-response"]) {
     
 $servername = "localhost";
 $username = "njaohnt_c";
-$password = "Procase6969";
+$password = "----------";
 $dbname = "njaohnt_coupons";
 $conn = mysqli_connect($servername, $username, $password, $dbname);
 $e = $_POST['e'];
