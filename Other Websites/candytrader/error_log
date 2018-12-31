@@ -1,6 +1,0 @@
-[10-Dec-2011 17:14:01] PHP Parse error:  syntax error, unexpected T_ELSE in /home1/njaohnt/public_html/candytrader/ultiajax.php on line 20
-[10-Dec-2011 17:14:42] PHP Parse error:  syntax error, unexpected T_ELSE in /home1/njaohnt/public_html/candytrader/ultiajax.php on line 20
-[10-Dec-2011 17:19:53] PHP Parse error:  syntax error, unexpected '}' in /home1/njaohnt/public_html/candytrader/ultiajax.php on line 30
-[10-Dec-2011 17:25:07] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'njaohnt'@'localhost' (using password: NO) in /home1/njaohnt/public_html/candytrader/ultiajax.php on line 25
-[10-Dec-2011 17:25:07] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home1/njaohnt/public_html/candytrader/ultiajax.php on line 25
-[10-Dec-2011 17:25:07] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home1/njaohnt/public_html/candytrader/ultiajax.php on line 26
